@@ -1,4 +1,4 @@
-p{
+p {
     font-size: 20px;
     text-align: center;
     color: white;
@@ -41,3 +41,8 @@ img:hover {
     transform: scale(0.9);
 }
 
+h2 {
+    text-align: center;
+    color: cornflowerblue;
+    text-decoration-line: underline;
+}
